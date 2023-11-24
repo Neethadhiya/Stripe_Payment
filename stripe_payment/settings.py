@@ -117,8 +117,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = 'static/'
-STRIPE_SECRET_KEY = 'sk_test_51NxonoSEQuk4EC0BIiPi0OxCGOfLarufo0XpJFzuZarVItqlsE1GZaozBzf2usRn7PqztyzC5iIO1s1NWT6zAnPx00y8PmudJp'
-STRIPE_PUBLISHABLE_KEY = 'pk_test_51NxonoSEQuk4EC0B9pzjFccKvAiAdpQbnSaXcxX3Ka4YkGscp5wy2DDduYlwMEIcvhFbD26tnhC7iNYdqUq724fV00Qkv1uDyu'
+STRIPE_SECRET_KEY = ''
+STRIPE_PUBLISHABLE_KEY = ''
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
